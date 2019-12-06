@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556175900693",
+    "firebase_url": "https://finalgb-40840.firebaseio.com",
+    "project_id": "finalgb-40840",
+    "storage_bucket": "finalgb-40840.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556175900693:android:881e87c1a87bf818ff4e1c",
+        "android_client_info": {
+          "package_name": "com.example.finalgb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556175900693-adio7t4h5lrp6os4r1mfpte79pfn7olv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKwjskPqQ0J3b-FlEyrqxs543ThZ3Siyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556175900693-adio7t4h5lrp6os4r1mfpte79pfn7olv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
