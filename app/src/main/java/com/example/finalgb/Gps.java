@@ -71,7 +71,7 @@ public class Gps {
 
                 public void onProviderDisabled(String provider) { }
             };
-            locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 30000, 0, locationListener);
+            locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 300000, 0, locationListener);
         }catch(SecurityException ex){
             Toast.makeText(mContext, ex.getMessage(), Toast.LENGTH_LONG).show();
         }
